@@ -17,7 +17,7 @@
 #
 ## Projeto: `Docker Todo List`
 
-- Projeto consiste em "levantar" um docker para o funcionamento de uma aplicação ja desenvolvida pela trybe, um frontend com backend de uma aplicação "todo list", a ideia foi de aplicar os comandos do docker e botar em prática o uso do docker apresentada na seção. Olhando a pasta [docker-commands](https://github.com/davidrogger/trybe-project-docker-todo-list/tree/readme-update/docker/docker-commands) foi analisando por um testes automatizados da trybe, os comandos corretos para funcionamento do docker e aplicações.
+- Projeto consiste em "levantar" localmente um docker para o funcionamento de uma aplicação ja desenvolvida pela trybe, um frontend com backend de uma aplicação "todo list", a ideia foi de aplicar os comandos do docker e botar em prática o uso do docker apresentada na seção. Olhando a pasta [docker-commands](https://github.com/davidrogger/trybe-project-docker-todo-list/tree/readme-update/docker/docker-commands) foi analisando por um testes automatizados da trybe, os comandos corretos para funcionamento do docker e aplicações.
 
 # Tecnologias e ferramentas usadas 🛠
 
