@@ -45,7 +45,6 @@
 ### Requisitos
 *Nome* | *Avaliação*
 --- | :---:
-
 1 - Crie um container em modo interativo, sem rodá-lo, nomeando-o como `01container` e utilizando a imagem `alpine` na versão `3.12` | :heavy_check_mark:
 2 - Inicie o container `01container` | :heavy_check_mark:
 3 - Liste os containers filtrando pelo nome `01container` | :heavy_check_mark:
