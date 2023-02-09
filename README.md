@@ -2,7 +2,7 @@
 
 ## Seção: `Containers - Docker`
 
-- Feita introdução há importancia e funcionamento do Docker, foi apresentado conceito de empacotamento de aplicações, imagens, containers, camadas, instalação e CLI.
+- Feita introdução há importância e funcionamento do Docker, foi apresentado conceito de empacotamento de aplicações, imagens, contêineres, camadas, instalação e CLI.
 - Resolvendo problemas de complexidade e de compatibilidade nas aplicações, evitando o problema de funcionar em um local e outro não, criando um ambiente virtual, onde a aplicação é iniciada de forma mais leve e barata comparada a criação de uma máquina virtual, por meio da conteinerização.
 #
 <div align="center">
@@ -30,7 +30,7 @@
 
 # Conclusão
 
-- A ideia do Docker com containers facilita muito a vida evitando vários processos de instalação, apenas instalando o docker, e coletando as imagens necessários no hub de imagens do docker, porém existe um consumo alto ainda na parte de espaço em disco, caso você tenha pouco espaço.
+- O conceito Docker usando contêineres facilita muito a vida evitando vários processos de instalação e compatibilidade, apenas instalando o docker, e coletando as imagens necessárias no hub de imagens do docker, porém existe um consumo alto ainda na parte de espaço em disco, caso você tenha pouco espaço.
 
 </details>
 
