@@ -13,7 +13,7 @@
   </a>
 </div>
 
->*clique na imagem para acesso online do projeto*
+>*Conteúdo sobre comandos usados para o funcionamento do docker*
 #
 ## Projeto: `Docker Todo List`
 
@@ -26,11 +26,11 @@
 
 # Desafios
 
-- lore
+- Esse projeto para praticar o uso do docker, foi bem simples, seguindo apenas o material apresentado pela trybe e pela documentação do docker.
 
 # Conclusão
 
-- lore
+- A ideia do Docker com containers facilita muito a vida evitando vários processos de instalação, apenas instalando o docker, e coletando as imagens necessários no hub de imagens do docker, porém existe um consumo alto ainda na parte de espaço em disco, caso você tenha pouco espaço.
 
 </details>
 
@@ -69,12 +69,11 @@
   </summary>
 
   - [x] - ~~Criar aplicação com base nos requisitos da trybe.~~ ![data](https://badgen.net/badge/delivery/17-05-2022/green)
-  - [ ] - Desenvolver testes automatizados.
 
 </details>
 
 #
 
 <div align="right">
-  <img src="https://badgen.net/badge/last%20update/08-02-2023/blue">
+  <img src="https://badgen.net/badge/last%20update/09-02-2023/blue">
 </div>
